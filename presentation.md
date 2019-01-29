@@ -80,7 +80,13 @@ Note: Off to a good start
 
 
 ##What is Git?
-![](images/newImages/git_officalDef.png)
+
+```
+GIT(1)                            Git Manual                            GIT(1)
+
+NAME
+       git - the stupid content tracker
+```
 
 - distributed version control system
 - allows you to work off-line
