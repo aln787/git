@@ -530,7 +530,7 @@ origin  https://github.com/aln787/git-collab.git (push)
 <img src="images/socialGit/github-fork.png">
 
 
-##[Fork Exercise](https://github.com/C1-SoftwareEngineeringSummit/gitExercise/)
+##[Fork Exercise](https://github.com/aln787/GitExercise)
 
 Note: https://github.com/aln787/git-collab/wiki#exercise
 
