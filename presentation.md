@@ -19,17 +19,77 @@
 </p>
 
 
-<img src="images/intro/Alex_and_Catelyn-CryatalMt-WA.png" height="600">
+![](images/intro/Niderbergs.jpg) ![](images/intro/Alex_and_Elliott.jpg)
+<!-- <img src="images/intro/Alex_and_Catelyn-CryatalMt-WA.png" height="600"> -->
 
 
-<img src="images/intro/CapitalOneLabs_Overview.png" height="600">
+<img src="images/intro/CapitalOneLabs-plus-Caffeine.png" height="600">
 <br>
 <small><a href="https://capitalonecareers.com/">Capital One</a></small>
 
 
-<img src="images/intro/CapitalOneLabs_Work.png" height="600">
+<img src="images/intro/CapitalOneLabs_and_Additional-Work.png" height="600">
 <br>
 <small><a href="https://www.capitalonelabs.com/#/about">Capital One Labs</a></small>
+
+---
+
+## Github Trends
+<img src="https://www.maxi-muth.de/wordpress/wp-content/uploads/2014/09/Professortocat_v2.png" width=540>
+
+
+## Student Use
+<img src="images/octoverse-2019/Octoverse_2019-At_School.png">
+
+- Source: [Github - Octoverse 2019](https://octoverse.github.com/)
+
+
+## Top Projects by Number of Contributors
+<img src="images/octoverse-2019/Octoverse_2019-Most_Contributors.png">
+
+- Source: [Github - Octoverse 2019](https://octoverse.github.com/)
+
+
+## Fastest Growing Projects
+<img src="images/octoverse-2019/Octoverse_2019-Fastest_Growing_Projects.png">
+
+- Source: [Github - Octoverse 2019](https://octoverse.github.com/)
+
+
+## Importance of Project Dependencies
+<img src="images/octoverse-2019/Octoverse_2019-Dependancy_Stats.png" width=840>
+
+- Source: [Github - Octoverse 2019](https://octoverse.github.com/)
+
+
+## Most Dependant Projects
+<img src="images/octoverse-2019/Octoverse_2019-Most_Dependant_Projects.png">
+
+- Source: [Github - Octoverse 2019](https://octoverse.github.com/)
+
+
+## Top Language Use
+<img src="images/octoverse-2019/Octoverse_2019-Top_Languages.png">
+
+- Source: [Github - Octoverse 2019](https://octoverse.github.com/)
+
+
+## Fastest Growing Languages
+<img src="images/octoverse-2019/Octoverse_2019-Fastest_Growing_Languages.png">
+
+- Source: [Github - Octoverse 2019](https://octoverse.github.com/)
+
+
+## Data Scinece Related Growth 
+<img src="images/octoverse-2019/Octoverse_2019-Jupyter_and_NTK.png" width=840>
+
+- Source: [Github - Octoverse 2019](https://octoverse.github.com/)
+
+
+## Data Science - TensofFlow
+<img src="images/octoverse-2019/Octoverse_2019-Tensorflow.png">
+
+- Source: [Github - Octoverse 2019](https://octoverse.github.com/)
 
 ---
 
@@ -390,65 +450,6 @@ git tag --list
 git push --tags
 git push origin v0.3.8
 ```
-
----
-
-## Github Trends
-<img src="https://www.maxi-muth.de/wordpress/wp-content/uploads/2014/09/Professortocat_v2.png" width=540>
-
-
-## Student Use
-<img src="images/octoverse-2019/Octoverse_2019-At_School.png">
-
-- Source: [Github - Octoverse 2019](https://octoverse.github.com/)
-
-
-## Top Projects by Number of Contributors
-<img src="images/octoverse-2019/Octoverse_2019-Most_Contributors.png">
-
-- Source: [Github - Octoverse 2019](https://octoverse.github.com/)
-
-
-## Fastest Growing Projects
-<img src="images/octoverse-2019/Octoverse_2019-Fastest_Growing_Projects.png">
-
-- Source: [Github - Octoverse 2019](https://octoverse.github.com/)
-
-
-## Importance of Project Dependencies
-<img src="images/octoverse-2019/Octoverse_2019-Dependancy_Stats.png" width=840>
-
-- Source: [Github - Octoverse 2019](https://octoverse.github.com/)
-
-
-## Most Dependant Projects
-<img src="images/octoverse-2019/Octoverse_2019-Most_Dependant_Projects.png">
-
-- Source: [Github - Octoverse 2019](https://octoverse.github.com/)
-
-
-## Top Language Use
-<img src="images/octoverse-2019/Octoverse_2019-Top_Languages.png">
-
-- Source: [Github - Octoverse 2019](https://octoverse.github.com/)
-
-
-## Fastest Growing Languages
-<img src="images/octoverse-2019/Octoverse_2019-Fastest_Growing_Languages.png">
-
-- Source: [Github - Octoverse 2019](https://octoverse.github.com/)
-
-
-## Data Scinece Related Growth 
-<img src="images/octoverse-2019/Octoverse_2019-Jupyter_and_NTK.png" width=840>
-
-- Source: [Github - Octoverse 2019](https://octoverse.github.com/)
-
-
-## Data Science - TensofFlow
-<img src="images/octoverse-2019/Octoverse_2019-Tensorflow.png">
-
-- Source: [Github - Octoverse 2019](https://octoverse.github.com/)
 
 ---
 
