@@ -19,7 +19,7 @@
 </p>
 
 
-![](images/intro/Niderbergs.jpg) ![](images/intro/Alex_and_Elliott.jpg)
+<img src="images/intro/Niderbergs_with_Elliott.png">
 <!-- <img src="images/intro/Alex_and_Catelyn-CryatalMt-WA.png" height="600"> -->
 
 
