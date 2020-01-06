@@ -220,6 +220,10 @@ Note: Every copy of a git branch becomes it's own branch when it falls off line 
 Note: When creating a new file or updating existing file and saving those changes, it will create a commit object
 
 
+## Commit Early, Commit Often
+<img src="https://img.devrant.com/devrant/rant/r_208395_eyoBm.jpg">
+
+
 ##Key Git Concepts - Checkpoint 1
 - Staging Area / Working Copy
 - Commit Object
@@ -389,7 +393,80 @@ git push origin v0.3.8
 
 ---
 
-##Github Tools / Features
+## Github Trends
+<img src="https://www.maxi-muth.de/wordpress/wp-content/uploads/2014/09/Professortocat_v2.png" width=540>
+
+
+## Student Use
+<img src="images/octoverse-2019/Octoverse_2019-At_School.png">
+
+- Source: [Github - Octoverse 2019](https://octoverse.github.com/)
+
+
+## Top Projects by Number of Contributors
+<img src="images/octoverse-2019/Octoverse_2019-Most_Contributors.png">
+
+- Source: [Github - Octoverse 2019](https://octoverse.github.com/)
+
+
+## Fastest Growing Projects
+<img src="images/octoverse-2019/Octoverse_2019-Fastest_Growing_Projects.png">
+
+- Source: [Github - Octoverse 2019](https://octoverse.github.com/)
+
+
+## Importance of Project Dependencies
+<img src="images/octoverse-2019/Octoverse_2019-Dependancy_Stats.png" width=840>
+
+- Source: [Github - Octoverse 2019](https://octoverse.github.com/)
+
+
+## Most Dependant Projects
+<img src="images/octoverse-2019/Octoverse_2019-Most_Dependant_Projects.png">
+
+- Source: [Github - Octoverse 2019](https://octoverse.github.com/)
+
+
+## Top Language Use
+<img src="images/octoverse-2019/Octoverse_2019-Top_Languages.png">
+
+- Source: [Github - Octoverse 2019](https://octoverse.github.com/)
+
+
+## Fastest Growing Languages
+<img src="images/octoverse-2019/Octoverse_2019-Fastest_Growing_Languages.png">
+
+- Source: [Github - Octoverse 2019](https://octoverse.github.com/)
+
+
+## Data Scinece Related Growth 
+<img src="images/octoverse-2019/Octoverse_2019-Jupyter_and_NTK.png" width=840>
+
+- Source: [Github - Octoverse 2019](https://octoverse.github.com/)
+
+
+## Data Science - TensofFlow
+<img src="images/octoverse-2019/Octoverse_2019-Tensorflow.png">
+
+- Source: [Github - Octoverse 2019](https://octoverse.github.com/)
+
+---
+
+## Additional Capabilities
+
+
+## Commit Hooks
+
+Gives you the abiltity to enforce standards at a variety of levels
+
+
+## Actions
+
+Newer Github specific capability that enables you to build your full CI workflow with Github and it's provided workers.
+
+---
+
+## Github Tools / Features
 
 
 ##GH-Pages
